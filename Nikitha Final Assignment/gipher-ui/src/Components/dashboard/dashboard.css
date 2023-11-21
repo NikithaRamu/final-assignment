@@ -1,0 +1,102 @@
+
+.dash__main
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.dash__left{
+    width: 70vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: greenyellow;
+}
+
+.dash__book{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.dash__right{
+    width: 25vw;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 80vh;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.dash__search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.dash__input{
+    width: 50vw;
+    height: 40px;
+    border-bottom: .1px solid rgb(138, 245, 128);
+    background-color: black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font: 30px;
+    color: WHITE;
+    outline: none;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+.contentDisplay
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+
+}
+
+.gifDisplay{
+    display: flex;
+    justify-content:center;
+ 
+    width: 70vw;
+    min-width: 400px;
+   
+  
+
+}
+
+.recommendations{
+
+    width: 28vw;
+    min-width: 300px;
+    background-color: yellow;
+   
+
+}
+
+.mainGifs{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center
+    ;
+}
+
+.searchText{
+    width:61vw;
+    height:5vh;
+    margin-bottom: 2px;
+}

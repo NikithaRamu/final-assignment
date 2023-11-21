@@ -1,0 +1,14 @@
+.recommend__image{
+    width: 200px;
+    height: 200px;
+}
+
+.recommend__number{
+    color:rgb(166, 245, 102);
+    text-align: center;
+}
+
+.recommend__title{
+    color: yellowgreen;
+    text-align: center;
+}

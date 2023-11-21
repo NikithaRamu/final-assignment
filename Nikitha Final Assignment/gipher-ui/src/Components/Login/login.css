@@ -1,0 +1,115 @@
+.login{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin-top: 15px;
+    border:1px solid black;
+    border-radius:10px;
+}
+
+.appText{
+    color: #dcdcbc;
+    font-family: nexabook;
+    font-size: 50px;
+    margin-right: 5vw;
+    text-shadow: 0 0 20px white,0 0 40px rgb(248, 61, 14),0 0 60px yellow;
+}
+
+.textArea{
+    width: 250px; height: 30px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    border:1px solid black;
+    outline: none;
+    
+}
+
+.regButton{
+    background-color: crimson;
+    outline-color: white;
+    width: 150px; height: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.imgSize{
+    
+    width: 200px;
+
+}
+
+.imageClass{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.register{
+    background-color: crimson;
+    outline-color: white;
+    width: 150px; height: 30px;
+
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btn1{
+    background-color: crimson;
+    outline-color: white;
+    width: 250px; height: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:1px solid black;
+    border-radius:10px;
+    outline: none;
+   
+  }
+
+  .errorDisp{
+    color: #dcdcbc;
+    font-family: nexabook;
+    font-size: 20px;
+    /* margin-right: 5vw; */
+    text-shadow: 0 0 20px white,0 0 40px rgb(248, 61, 14),0 0 60px yellow;
+}
+
+.log{
+    color: #dcdcbc;
+    font-family: nexabook;
+    font-size: 30px;
+    margin-right: 5vw;
+    text-shadow: 0 0 20px white,0 0 40px rgb(248, 61, 14),0 0 60px yellow;
+    display: flex;
+    justify-content: center;
+}
+
+
+.fuser{
+    color: #dcdcbc;
+    font-family: nexabook;
+    font-size: 20px;
+    
+    text-shadow: 0 0 20px white,0 0 40px rgb(248, 61, 14),0 0 60px yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+a{
+    color:greenyellow;
+    font-family: nexabook;
+    margin-left: 5px;
+    font-size: 20px;
+    /* text-shadow: 0 0 20px white,0 0 40px rgb(248, 61, 14),0 0 60px yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

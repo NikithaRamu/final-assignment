@@ -1,0 +1,28 @@
+.display__image{
+width: 200px;
+height: 200px;
+}
+
+.display__card{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 2em;
+    align-items: center;
+}
+
+.display__button{
+     width: 100px;
+     height: 30px;
+     background-color: rgb(121, 241, 41);
+     margin: 5px;
+     outline: none;
+     border: 1px solid black;
+     border-radius: 10px;
+     transition: 0.3s;
+     opacity: 0.6;
+     
+}
+
+.display__button:hover {opacity: 1;
+}
